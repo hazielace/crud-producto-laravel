@@ -1,6 +1,6 @@
-# Proyecto CRUD Productos
+# CRUD Productos
 
-Este proyecto es una aplicación Laravel para gestionar un CRUD (Crear, Leer, Actualizar, Eliminar) de productos. 
+Aplicación Laravel para gestionar un CRUD (Crear, Leer, Actualizar, Eliminar) de productos. 
 
 ## Instalación
 Clonar el repositorio o descarga el código.
